@@ -18,7 +18,7 @@ B. Nội dung Bài tập 05:
 
 3. Viết trigger cho 1 bảng nào đó, mà có thể sử dụng trường phi tiêu chuẩn này, nhằm đạt được 1 vài mục tiêu nào đó. => chỉ định các mục tiêu
 
-4. Nhập dữ liệu có kiểm soát, nhắm để kiểm tra hiệu quả của việc tự động kích hoạt công việc.
+4. Nhập dữ liệu có kiểm soát, nhằm để kiểm tra hiệu quả của việc tự động kích hoạt công việc.
 
 5. Kết luận về Trigger đã giúp ích gì cho sơ đồ của em.
 
